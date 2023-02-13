@@ -1,0 +1,2 @@
+#!/bi/bash
+egrep -c "bin" etc/password

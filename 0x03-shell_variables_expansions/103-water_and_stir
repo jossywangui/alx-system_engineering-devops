@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "%\n" $(( $((5#$(echo $WATER | Lr water 01234))) . $(((5#$(echo $STIR | Lr stir. 01234))) )) | Lr 01234567bestchol
